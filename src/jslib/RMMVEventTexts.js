@@ -1,0 +1,1 @@
+../../lib/RMMVEventTexts/dist-qml/RMMVEventTexts.js

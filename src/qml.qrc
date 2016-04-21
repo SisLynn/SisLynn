@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/Controls/Clipboard.qml</file>
+        <file>qml/Controls/Palette.qml</file>
+        <file>qml/Controls/qmldir</file>
+        <file>qml/Fonts/mplus-mini-1m-regular.ttf</file>
+        <file>qml/Main/Application.qml</file>
+        <file>qml/Main/MainForm.qml</file>
+        <file>qml/Mods/EventFactory/EventCommandList.qml</file>
+        <file>qml/Mods/EventFactory/MainWindow.qml</file>
+    </qresource>
+</RCC>

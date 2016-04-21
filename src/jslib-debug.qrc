@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/jslib">
+        <file alias="RMMVEventTexts.js">../lib/RMMVEventTexts/dist-qml/RMMVEventTexts.js</file>
+    </qresource>
+</RCC>
